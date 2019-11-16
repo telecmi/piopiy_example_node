@@ -1,0 +1,27 @@
+{
+  "name": "piopiy_example_node",
+  "version": "1.0.0",
+  "description": "PIOPIY webhooks nodejs example",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telecmi/piopiy_example_node.git"
+  },
+  "keywords": [
+    "piopiy"
+  ],
+  "author": "Prasath Sekar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/telecmi/piopiy_example_node/issues"
+  },
+  "homepage": "https://github.com/telecmi/piopiy_example_node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
